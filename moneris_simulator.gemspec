@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Simulator for Moneris Hosted Tokenization}
   spec.description   = %q{Simulator for Moneris Hosted Tokenization}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/amaabca/moneris_simulator"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
