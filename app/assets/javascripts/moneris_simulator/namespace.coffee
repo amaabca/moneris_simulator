@@ -1,0 +1,1 @@
+@MonerisSimulator = window.MonerisSimulator ? {}
