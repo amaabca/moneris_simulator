@@ -22,7 +22,7 @@ class MonerisSimulator.CreditCard
     @creditCardNumber().substring 0, 6
 
   responseCode: () ->
-    if @validCreditCard() then "1" else "51"
+    if @validCreditCard() then "001" else "51"
 
   validCreditCard: () ->
     @creditCardNumber() in @validCreditCards
