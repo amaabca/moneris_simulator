@@ -62,7 +62,7 @@ body{
   text-transform: none;
   transition-delay: 0s, 0s;
   transition-duration: 0.45s, 0.45s;
-  transition-property: box-shadow, border-color;
+  transition: box-shadow, border-color;
   transition-timing-function: ease, ease-in-out;
   width: 100%;
   word-spacing: 0px;
